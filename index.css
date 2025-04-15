@@ -1,29 +1,30 @@
 :root {
-    /* Backgrounds */
-    --bg-color: #f1f8f7;
-    --cell-bg: #ffffff;
   
-    /* Borders & Lines */
-    --border-color: #888888;
-    --button-border: #cccccc;
-  
-    /* Primary Font & Accent */
-    --font-color: #5f7aa9;       /* soft bluish gray */
-    --font-light: #92a3c2;
-  
-    /* Buttons */
-    --btn-bg: #ffffff;
-    --btn-hover-bg: #e6f0ff;
-    --btn-text: #444444;
-  
-    /* Inputs */
-    --input-bg: #ffffff;
-    --input-border: #aaaaaa;
-    --input-placeholder: #bbb;
-  
-    /* Fonts */
+    --bg-color: #fef6e4;        
+    --cell-bg: #ffffff;        
+    
+
+    --border-color: #e0b1cb;   
+    --button-border: #b296c9;
+
+ 
+    --font-color: #0f172a;     
+    --font-light: #5c5470;      
+
+    
+    --btn-bg: #d6d2fc;         
+    --btn-hover-bg: #b8b3e9;   
+    --btn-text: #1e1e2f;
+
+
+    --input-bg: #fff9f9;
+    --input-border: #d1c3e0;
+    --input-placeholder: #aaa;
+    
     --main-font: 'Comic Neue', 'Segoe UI', cursive, sans-serif;
-  }
+}
+
+
 
   *{
     margin: 0;
