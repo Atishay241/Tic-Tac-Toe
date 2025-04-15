@@ -48,7 +48,7 @@
 
 header {
     color: var(--font-color);
-    font-size: 2rem;
+    font-size: 1.8rem;
     margin: 20px;
 }
 
@@ -113,4 +113,9 @@ input {
     border: 1px solid var(--border-color);
     padding: 10px;
     border-radius: 12px;
+}
+
+.number {
+    color: #444444;
+    font-family: 'Times New Roman', Times, serif;
 }
